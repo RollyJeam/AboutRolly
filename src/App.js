@@ -9,7 +9,7 @@ const App = () => {
   return (
     
     <div className="flex-all">
-      <div className='Print'><OpenPDF>Print Resume</OpenPDF></div>
+      <div className='Print'><OpenPDF>My Resume</OpenPDF></div>
       <div className="container">
         <h1>ROLLY JEAM A. ABLETES</h1>
         <div className="profile-image">
