@@ -1,0 +1,38 @@
+{
+  "careerVision": "I am seeking employment with a dynamic and forward thinking company where I can leverage my talents and skills to drive growth and innovation. With a strong background in Computer Technology, I aim to utilize my experience and education to contribute to the company's success, helping it not only meet but exceed its strategic objectives. I am eager to collaborate with a team that values continuous improvement and is committed to achieving exceptional results.",
+  "personalProfile": {
+    "Name": "Rolly Jeam A. Abletes",
+    "DateOfBirth": "May 31, 1990",
+    "PlaceOfBirth": "Ormoc City, Leyte",
+    "CivilStatus": "Married",
+    "LanguagesSpoken": "English, Tagalog, Cebuano",
+    "Height" : "5'6",
+    "Weight": "65 kg",
+    "Nationality": "Filipino"
+  },
+  "academicAttainments": {
+    "College": "ACLC College of Ormoc (2007-2009)",
+    "Secondary": "New Ormoc City National High School (2003-2007)",
+    "Elementary": "Ormoc City Central School (1997-2003)"
+  },
+  "experience": [
+    { "title": "OJT", "company": "Ormoc City Hall (ITC Department)", "year": "2008" },
+    { "title": "Graphic Artist", "company": "Show Graphics Design", "year": "2010-2016" },
+    { "title": "IT Staff", "company": "Ormoc City Bus Terminal Office", "year": "2016-2022" },
+    { "title": "Graphic Artist", "company": "Tasmika Enterprises", "year": "2022-2024" }
+  ],
+  "skills": [
+    "Computer Literate",
+    "Proficient in Adobe Photoshop, CorelDraw, AutoCAD Autodesk",
+    "Coding Skills in Javascript, HTML, CSS, TAILWINDCSS",
+    "Hardworking",
+    "Highly organized and dedicated with a positive attitude",
+    "Able to work in a flexible work schedule",
+    "Thrive on working in a challenging environment and handling people",
+    "Enjoys sharing knowledge and encouraging development in others"
+  ],
+  "characterReference": [
+    { "name": "Lester Bernardino", "position": "NOCNHS Lit Coordinator", "location": "Ormoc City" },
+    { "name": "Melchadis Rommel Dy", "position": "Tasmika Enterprises", "contact": "0947 562 5662", "location": "Brgy. Can-Adieng, Ormoc City" }
+  ]
+}
